@@ -10,6 +10,6 @@ namespace Microsoft.Maui.Controls
 			PreviousPage = previousPage;
 		}
 
-		internal Page PreviousPage { get; }
+		public Page PreviousPage { get; }
 	}
 }
